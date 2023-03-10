@@ -2,7 +2,7 @@
 This project contains a set of scripts that focus on working with permissions in the Unix shell. Each script performs a specific task and can be run independently.
 
 List of Scripts
-0-iam_betty: This script switches the current user to the user betty.
+### 0-iam_betty: This script switches the current user to the user betty.
 
 1-who_am_i: This script prints the effective username of the current user.
 
