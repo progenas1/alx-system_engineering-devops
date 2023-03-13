@@ -1,12 +1,12 @@
 # Shell, Basics
 
-This project was completed as part of my Full Stack Software Engineering studies at  ALX software engineering. Its objective was to acquire knowledge about fundamental commands, file navigation, and directories in the Shell.
+- This project was completed as part of my Full Stack Software Engineering studies at  ALX software engineering. Its objective was to acquire knowledge about fundamental commands, file navigation, and directories in the Shell.
 
-Technology Stack
-The scripts were developed using Bash 4.3.11(1) , and tested on Ubuntu 14.04 LTS.
+### Technology Stack
+- The scripts were developed using Bash 4.3.11(1) , and tested on Ubuntu 14.04 LTS.
 
-List of Files
-All files included in this project are scripts except for holberton.mgc.
+##List of Files
++ All files included in this project are scripts except for holberton.mgc.
 
 
 | Filename | Description |
