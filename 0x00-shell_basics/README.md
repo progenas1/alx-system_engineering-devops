@@ -5,7 +5,7 @@
 ### Technology Stack
 - The scripts were developed using Bash 4.3.11(1) , and tested on Ubuntu 14.04 LTS.
 
-##List of Files
+## List of Files
 + All files included in this project are scripts except for holberton.mgc.
 
 
